@@ -20,7 +20,7 @@
 
 | 🇺🇿 O‘zbekcha | 🇬🇧 English |
 |---------------|------------|
-| 1. Loyihani klonlang: <br>`git clone <your-repo-url>`<br>`cd <repo-folder>` | 1. Clone the repository: <br>`git clone <your-repo-url>`<br>`cd <repo-folder>` |
+| 1. Loyihani klonlang: <br>`git clone https://github.com/Sherzoddavronov/server-tg-bot-runner.git`<br>`cd <repo-folder>` | 1. Clone the repository: <br>`git clone https://github.com/Sherzoddavronov/server-tg-bot-runner.git`<br>`cd <repo-folder>` |
 | 2. Virtual muhit yaratish: <br>`python -m venv venv` | 2. Create a virtual environment: <br>`python -m venv venv` |
 | 3. Virtual muhitni yoqish: <br>`source venv/bin/activate` (Linux/macOS)<br>`venv\Scripts\activate` (Windows) | 3. Activate the virtual environment: <br>`source venv/bin/activate` (Linux/macOS)<br>`venv\Scripts\activate` (Windows) |
 | 4. Zarur paketlarni o‘rnatish: <br>`pip install --upgrade pip`<br>`pip install flask` | 4. Install required packages: <br>`pip install --upgrade pip`<br>`pip install flask` |
